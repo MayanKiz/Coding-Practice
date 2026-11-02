@@ -1,15 +1,31 @@
-# Programming Practice
+# AKTU First-Semester Coding Practice
 
-A personal repository for learning programming, solving problems, and building strong fundamentals for software engineering interviews.
+An ongoing collection of programming practice, lab work, and problem-solving as I build coding fundamentals during B.Tech CSE (AI & ML).
 
-## Languages
+This repository is actively updated as I learn. Suggestions, corrections, and contributions are welcome.
 
-- [C](C) — fundamentals, college practice, and beginner exercises.
-- [C++](C++) — C++ basics, STL, data structures, algorithms, and interview preparation.
-- [Python](Python) — Python fundamentals, scripting, automation, and future AI/ML practice.
+## Languages and folders
 
-## Layout
+- [Assignment](Assignment): weekly programming assignments and lab practice.
+- [C](C): fundamentals, operators, conditions, loops, functions, arrays, structures, and practice problems.
+- [C++](C++): fundamentals, STL, data structures, algorithms, and practice.
+- [Python](Python): fundamentals, problem-solving, data structures, and projects.
 
-Existing C practice is organized under `C/`, retaining its topic folders and source files. Dedicated `C++/` and `Python/` folders provide a clear place for future practice, each with topic-based subfolders and README guides.
+## Run a C program
 
+Open a source file and compile it with GCC. For example:
 
+```bash
+gcc C/01_basic_print_name.c -o program
+./program
+```
+
+Replace the source path with the program you want to run.
+
+## Open-source contributions
+
+Fork the repository to try your own solutions. Pull requests are welcome for bug fixes, clearer code, beginner-friendly problems, and better approaches. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
+
+## Note
+
+This is a learning-in-public repository. Solutions may improve over time. Use your official AKTU syllabus and assignment sheet for exact requirements.
