@@ -1,8 +1,7 @@
-#includes <stdio.h>
+#include <stdio.h>
+
 int main()
 {
-  printf("hello world");
-return 0;
+    printf("hello world\n");
+    return 0;
 }
-// Output = hello world
-///wpoeee

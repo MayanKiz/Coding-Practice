@@ -1,12 +1,13 @@
-a=int(input("A"))
-b=int(input("B"))
-c=int(input("C"))
-d=int(input("D"))
-if a>b and a>c and a>d:
-  print("a is greater")
-elif b>a and b>c and b>d:
-  print("b is greater")
-elif c>a and c>b and d>c:
-  print("c is greater")
+a = int(input("A: "))
+b = int(input("B: "))
+c = int(input("C: "))
+d = int(input("D: "))
+
+if a > b and a > c and a > d:
+    print("a is greater")
+elif b > a and b > c and b > d:
+    print("b is greater")
+elif c > a and c > b and c > d:
+    print("c is greater")
 else:
-  print("d is grwatrr")
+    print("d is greater")
