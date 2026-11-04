@@ -17,6 +17,6 @@ Thanks for helping improve this coding-practice repository!
 - Keep each beginner exercise focused on one problem.
 - Add comments when they help explain the logic.
 - Never add private information, credentials, or personal documents.
-- Be respectful and constructive in discussions.
+- Be respectful and constructive in discussions..
 
 Bug fixes, corrections, and new practice problems are welcome.
